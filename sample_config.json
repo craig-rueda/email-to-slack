@@ -1,0 +1,8 @@
+{
+  "aws_access_key": "<IAM user's key>",
+  "aws_secret_key": "<IAM user's secret key>",
+  "s3_bucket": "<Your S3 bucket to store images>",
+  "slack_key": "<Your bot's slack API key>",
+  "channel": "<The slack channel to post messages to>",
+  "port": <The TCP port number that the SMTP server will listen on>
+}
